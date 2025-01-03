@@ -1,0 +1,1 @@
+# Define Outputs for critical Resources
